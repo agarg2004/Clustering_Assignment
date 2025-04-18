@@ -48,10 +48,10 @@ Results are generated and saved in images folder as:
 ### Sample Visualizations:
 
 #### K-Means Clustering
-![K-Means Clustering](K-Means_clusters.png)
+![K-Means_clusters](https://github.com/user-attachments/assets/545fac4a-9686-4f20-b954-ec9185f344c0)
 
 #### Hierarchical Clustering Dendrogram
-![Dendrogram](dendrogram.png)
+![dendrogram](https://github.com/user-attachments/assets/bc4fa015-6dc9-43d0-9b2f-a1655a8b17d7)
 
 
 ## Conclusion
